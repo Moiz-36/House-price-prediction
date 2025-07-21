@@ -1,5 +1,5 @@
 # California Housing Price Prediction
-This repository contains a Jupyter Notebook (your_notebook_name.ipynb) that demonstrates a complete machine learning workflow to predict house prices using the California Housing dataset.
+This repository contains a Jupyter Notebook (house_price_prediction.ipynb) that demonstrates a complete machine learning workflow to predict house prices using the California Housing dataset.
 
 Project Overview
 The goal of this project is to build and evaluate a regression model that can predict median house values based on various features of housing districts in California.
